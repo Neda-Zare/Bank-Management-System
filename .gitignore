@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Environment variables and secrets
+.env
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
